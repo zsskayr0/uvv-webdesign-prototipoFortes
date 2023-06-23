@@ -20,14 +20,14 @@ O projeto foi implementado utilizando as seguintes tecnologias web:
 - HTML
 - CSS
 - JavaScript
+- SQL/PostgreSQL
 
 ## Estrutura do Projeto
 
-O projeto está organizado nas seguintes pastas e arquivos principais:
+O projeto está organizado nas seguintes pastas principais:
 
-- Arquivos `.html`: arquivos HTML que contém a estrutura básica das páginas.
-- Arquivos `.css`: arquivos CSS que definem o estilo visual da aplicação.
-- `index.js`: arquivo JavaScript contendo a lógica de interação e manipulação dos dados.
+- `main`: Pasta contendo todo o conteúdo front-end (Em relação à disciplina de Construção de Software para Web) do projeto, com arquivos HTML que contém a estrutura básica das páginas, arquivos CSS que definem o estilo visual da aplicação e um arquivo JavaScript contendo a lógica de interação e manipulação dos dados.
+- `script`: Pasta contendo todo o conteúdo backend (Em relação à disciplina de Design e Desenvolvimento de Banco de Dados) do projeto, contendo o projeto conceitual, o projeto lógico e o `script.sql` contendo a formulação do banco de dados na 3FN.
 
 ## Execução do Projeto
 
