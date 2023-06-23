@@ -33,7 +33,7 @@ O projeto está organizado nas seguintes pastas e arquivos principais:
 
 O projeto pode ser acessado através do GitHub Pages. Para executar o projeto, siga as etapas abaixo:
 
-1. Acesse o seguinte link: [Banco de Talentos da Fortes Engenharia](https://seu-usuario.github.io/banco-de-talentos).
+1. Acesse o seguinte link: [Banco de Talentos da Fortes Engenharia](https://zsskayr0.github.io/uvv-webdesign-prototipoFortes/main/noticias.html).
 
 2. Agora você pode explorar o banco de talentos dos colaboradores da Fortes Engenharia.
 
@@ -44,19 +44,19 @@ Para executar o projeto em sua máquina local, siga as etapas abaixo:
 1. Clone este repositório para o seu ambiente de desenvolvimento:
 
 ```bash
-git clone https://github.com/seu-usuario/banco-de-talentos.git
+git clone https://github.com/zsskayr0/uvv-webdesign-prototipoFortes.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd banco-de-talentos
+cd uvv-webdesign-prototipoFortes
 ```
 
-3. Abra o arquivo `index.html` em seu navegador web:
+3. Abra o arquivo `noticias.html` em seu navegador web:
 
 ```
-Abra o arquivo index.html no seu navegador preferido.
+Abra o arquivo .html no seu navegador preferido.
 ```
 
 4. Agora você pode explorar o banco de talentos dos colaboradores da Fortes Engenharia.
