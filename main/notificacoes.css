@@ -366,3 +366,19 @@ footer {
     background-color: #084e82 !important;
     border: #000 solid 1px;
 }
+
+
+#input {
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 10px;
+}
+
+.modo-escuro #input,.modo-daltonico #input {
+    background-color: #2e2e2f;
+    color: #f1eeee;
+}
+
+::placeholder {
+    padding: 10px;
+}
